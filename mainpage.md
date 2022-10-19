@@ -1,0 +1,3 @@
+\mainpage GitHubActionでDoxygen
+
+GitHubActionでDoxygenをビルドしたい．
